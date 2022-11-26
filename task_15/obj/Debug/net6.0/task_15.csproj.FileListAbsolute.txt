@@ -1,0 +1,15 @@
+E:\обучение\C#\C.homevork_2\task_15\bin\Debug\net6.0\task_15.exe
+E:\обучение\C#\C.homevork_2\task_15\bin\Debug\net6.0\task_15.deps.json
+E:\обучение\C#\C.homevork_2\task_15\bin\Debug\net6.0\task_15.runtimeconfig.json
+E:\обучение\C#\C.homevork_2\task_15\bin\Debug\net6.0\task_15.dll
+E:\обучение\C#\C.homevork_2\task_15\bin\Debug\net6.0\task_15.pdb
+E:\обучение\C#\C.homevork_2\task_15\obj\Debug\net6.0\task_15.csproj.AssemblyReference.cache
+E:\обучение\C#\C.homevork_2\task_15\obj\Debug\net6.0\task_15.GeneratedMSBuildEditorConfig.editorconfig
+E:\обучение\C#\C.homevork_2\task_15\obj\Debug\net6.0\task_15.AssemblyInfoInputs.cache
+E:\обучение\C#\C.homevork_2\task_15\obj\Debug\net6.0\task_15.AssemblyInfo.cs
+E:\обучение\C#\C.homevork_2\task_15\obj\Debug\net6.0\task_15.csproj.CoreCompileInputs.cache
+E:\обучение\C#\C.homevork_2\task_15\obj\Debug\net6.0\task_15.dll
+E:\обучение\C#\C.homevork_2\task_15\obj\Debug\net6.0\refint\task_15.dll
+E:\обучение\C#\C.homevork_2\task_15\obj\Debug\net6.0\task_15.pdb
+E:\обучение\C#\C.homevork_2\task_15\obj\Debug\net6.0\task_15.genruntimeconfig.cache
+E:\обучение\C#\C.homevork_2\task_15\obj\Debug\net6.0\ref\task_15.dll
